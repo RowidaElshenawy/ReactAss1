@@ -1,0 +1,11 @@
+.homeContant{
+    background-color: #1ABC9C;
+    padding-block: 80px;
+}
+.homeContant hr{
+    display: inline-block;
+    width: 70px;
+    border-top: 5px solid;
+    margin: 0;
+    opacity: 1;
+}

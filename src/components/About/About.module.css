@@ -1,0 +1,14 @@
+.about p{
+    text-align: justify;
+}
+.about hr{
+    display: inline-block;
+    width: 70px;
+    border-top: 5px solid;
+    margin: 0;
+    opacity: 1;
+}
+.about{
+    background-color: #1ABC9C;
+    padding-block: 80px;
+}

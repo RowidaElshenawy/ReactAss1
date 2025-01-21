@@ -1,0 +1,38 @@
+.portfolio {
+    padding-block: 80px;
+}
+.portfolio .parent img{
+    border-radius: 10px;
+}
+.portfolio .parent:hover .layer{
+    opacity: 0.88;
+    transition: all 1s;
+}
+.layer{
+    background-color: #29b198;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: 0;
+    border-radius: 10px;
+}
+.btnPort{
+    padding: 0;
+}
+.btnPort:hover{
+    border:none ;
+}
+.modalPort{
+    padding: 0;
+}
+.portfolioText{
+  color: #2c3e50;
+}
+.portfolio hr{
+    display: inline-block;
+    width: 70px;
+    border-top: 5px solid;
+    margin: 0;
+    opacity: 1;
+}
